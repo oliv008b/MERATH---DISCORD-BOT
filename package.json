@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mas4rPh0x",
+  "license": "ISC",
+  "dependencies": {
+    "core-util-is": "^1.0.2",
+    "discord-welcome": "^1.5.0",
+    "discord.js": "^11.5.1",
+    "discord.js-musicbot-addon": "^13.8.0",
+    "opusscript": "0.0.7",
+    "webpack-dev-server": "^3.8.0",
+    "ytdl-core": "^0.29.7"
+  },
+  "devDependencies": {},
+  "description": ""
+}
