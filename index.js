@@ -3,7 +3,7 @@ const bot = new Discord.Client();
 
 const token = 'NjIyMTU2NzA1OTYyMzkzNjAw.XX0UmA.xCXaMwOerTeMEAqdRIHFGYK92Y8';
 
-bot.login(token);
+bot.login(process.env.token);
 
 const PREFIX = '!';
 
